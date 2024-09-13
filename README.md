@@ -104,4 +104,4 @@ The downstream scripts can be found under the `examples` folder. Below we illust
   ```
 
 # Acknowledgement
-We acknowledge that the part of the code is adapted from MoleculeSDE. Thanks to the authors for sharing their code.
+We acknowledge that the part of the code is adapted from MoleculeSDE and CarbonDesign. Thanks to the authors for sharing their code.
